@@ -1,7 +1,8 @@
 ## Manuela Benary
-
+Understanding heterogeneity - from patients to tissues to single cells and back
+### Home
 ### Projects
-soon to come ...
-
+### Publications
+### Talks
 ### Teaching
-soon to come ...
+### CV

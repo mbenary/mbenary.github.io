@@ -27,3 +27,5 @@ highlighter: pygments
 # Permalinks
 permalink: pretty
 relative_permalinks: false
+
+theme: jekyll-theme-tactile
